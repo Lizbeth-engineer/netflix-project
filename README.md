@@ -60,11 +60,11 @@ Se crean **8 nuevas variables** derivadas para análisis avanzado:
 
 Basado en el análisis del catálogo de Netflix se encontró que:
 
-🎬 **63%** del contenido corresponde a películas  
-🌎 **Estados Unidos** lidera con la mayor cantidad de títulos  
-📈 Crecimiento significativo de contenido desde **2015**  
-🎭 **Drama** y **Comedia** son los géneros más frecuentes  
-⏱️ Duración promedio de películas: **~100 minutos**
+- **63%** del contenido corresponde a películas  
+- **Estados Unidos** lidera con la mayor cantidad de títulos  
+- Crecimiento significativo de contenido desde **2015**  
+- **Drama** y **Comedia** son los géneros más frecuentes  
+- Duración promedio de películas: **~100 minutos**
 
 
 ## Tecnologías utilizadas
