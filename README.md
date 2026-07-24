@@ -68,7 +68,7 @@ Basado en el análisis del catálogo de Netflix se encontró que:
 
 
 ## Tecnologías utilizadas
-
+```
 Tecnología      ----->        Uso 
 ----------------------------------------------------------
 **Python 3**   ------>   Lenguaje principal
@@ -76,6 +76,7 @@ Tecnología      ----->        Uso
 **Pandas**     ------>   Manipulación y transformación de datos
 **NumPy**      ------>   Operaciones numéricas
 **Matplotlib** ------>   Creación de visualizaciones estáticas
+```
 
 ## Estructura del proyecto
 
