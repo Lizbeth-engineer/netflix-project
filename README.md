@@ -5,7 +5,7 @@ Aplicación interactiva desarrollada con Streamlit para el análisis exploratori
 ## Descripción
 
 Este proyecto permite visualizar y analizar información de contenido de Netflix a través de una interfaz interactiva.  
-El usuario puede cargar su propio dataset en formato CSV y explorar diferentes métricas y visualizaciones.
+El usuario puede cargar el dataset en formato CSV (adjuntado) y explorar diferentes métricas y visualizaciones.
 
 ---
 
